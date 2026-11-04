@@ -1,0 +1,4 @@
+# Only install this if you set DB_PROVIDER=cloudsql in .env
+# pip install -r requirements-cloudsql.txt
+cloud-sql-python-connector[pg8000]==1.12.1
+pg8000==1.31.2
