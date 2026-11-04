@@ -75,7 +75,7 @@ export default function LoginPage({ onLoggedIn }) {
               <User className="w-4 h-4 text-slate-400 absolute left-3 top-3.5" />
               <input
                 type="text"
-                placeholder="eren"
+                placeholder="username"
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 required
