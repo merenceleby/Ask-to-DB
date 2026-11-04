@@ -27,7 +27,7 @@ async def lifespan(app: FastAPI):
     yield
 
 
-app = FastAPI(title="SQL AI Assistant", lifespan=lifespan)
+app = FastAPI(title="Ask to DB: SQL AI Assistant", lifespan=lifespan)
 
 app.state.limiter = limiter
 

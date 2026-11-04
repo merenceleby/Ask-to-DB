@@ -1,4 +1,4 @@
-# SQL AI Assistant
+# Ask to DB: SQL AI Assistant
 
 Ask a database questions in plain English. Gemma 4 (hosted by Google,
 via the Gemini API) writes the SQL, the database answers, and Gemma 4

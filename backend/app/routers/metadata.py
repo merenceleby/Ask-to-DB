@@ -37,7 +37,7 @@ class DbSummaryOut(BaseModel):
 def get_db_summary(user: dict = Depends(get_current_user)) -> DbSummaryOut:
     engine = get_engine()
     title = "SQL Database"
-    desc = "Relational database managed by SQL AI Assistant"
+    desc = "Relational database managed by Ask to DB: SQL AI Assistant"
 
     with engine.connect() as conn:
         try:

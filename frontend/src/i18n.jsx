@@ -3,7 +3,7 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 const translations = {
   tr: {
     // Nav
-    app_title: "SQL AI Assistant",
+    app_title: "Ask to DB: SQL AI Assistant",
     nav_ask: "Soru Sor",
     nav_workspace: "Tablolarım / Çalışma Alanı",
     logout: "Çıkış Yap",
@@ -20,7 +20,7 @@ const translations = {
     workspace_insert_row_submit: "Satırı Kaydet",
 
     // Login
-    login_title: "SQL AI Assistant",
+    login_title: "Ask to DB: SQL AI Assistant",
     login_subtitle: "Doğal dille veritabanı sorgulama asistanına hoş geldiniz.",
     login_username: "Kullanıcı Adı",
     login_password: "Şifre",
@@ -118,7 +118,7 @@ const translations = {
   },
   en: {
     // Nav
-    app_title: "SQL AI Assistant",
+    app_title: "Ask to DB: SQL AI Assistant",
     nav_ask: "Ask Questions",
     nav_workspace: "My Tables / Workspace",
     logout: "Log out",
@@ -135,7 +135,7 @@ const translations = {
     workspace_insert_row_submit: "Save Row",
 
     // Login
-    login_title: "SQL AI Assistant",
+    login_title: "Ask to DB: SQL AI Assistant",
     login_subtitle: "Welcome to natural language database querying assistant.",
     login_username: "Username",
     login_password: "Password",
