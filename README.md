@@ -74,3 +74,33 @@ npm run dev
 Log in with the account you just created. From the Admin tab you can:
 create/delete other user accounts, click "Create demo data" to
 populate the tables, and browse/edit/delete rows directly.
+
+## Screenshots
+
+<p align="center">
+  <img width="1919" height="795" src="https://github.com/user-attachments/assets/068f61cc-17ee-4b96-acf3-115d2bfcac65" />
+  <br />
+  <em>Per-user question history and clickable sample questions generated for the current schema.</em>
+</p>
+<hr />
+<p align="center"> 
+<img width="938" height="620" src="https://github.com/user-attachments/assets/66174438-2109-4ede-9c32-92ad4fe0a01e" />
+  <br />
+  <em>Ask in plain English, get a natural-language answer plus the generated SQL and the raw result table.</em>
+</p>
+
+<hr />
+<p align="center">
+  <img width="1845" height="751" src="https://github.com/user-attachments/assets/6fff68ca-20f2-4f29-8c81-a7fef7210b8c" />
+
+  <br />
+  <em>Create your own tables, manage data, and auto-generate AI sample questions.</em>
+</p>
+<hr />
+<p align="center">
+  <img width="1919" height="804" src="https://github.com/user-attachments/assets/f1eba5b5-72a8-4f7d-ae14-c7877522217f" />
+
+  <br />
+  <em>Browse, add, edit and delete rows of any table directly.</em>
+</p>
+
